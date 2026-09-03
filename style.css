@@ -118,7 +118,7 @@ h2.section-title {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   color: var(--muted);
-  margin: 48px 0 18px;
+  margin: 60px 0 18px;
   padding-bottom: 8px;
   border-bottom: 1px solid var(--line);
 }
