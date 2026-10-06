@@ -201,17 +201,20 @@ h2.section-title:first-of-type { margin-top: 0; }
   color: var(--muted);
   margin: 0 0 8px;
 }
-.paper .abstract {
+.paper .abstract,
+.jmp-card .abstract {
   font-size: 0.96rem;
   color: var(--ink-soft);
   margin: 8px 0 0;
 }
-.paper .links {
+.paper .links, 
+.jmp-card .links {
   margin-top: 10px;
   font-family: var(--font-mono);
   font-size: 0.8rem;
 }
-.paper .links a { margin-right: 16px; }
+.paper .links a 
+.jmp-card .links a { margin-right: 16px; }
 
 details.abstract-toggle summary {
   cursor: pointer;
